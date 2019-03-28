@@ -29,6 +29,7 @@ The main procedure is performed in 'projective_biasCorrection' function which ha
 
 -param: method parameters
 
+Project page: http://cvil.eecs.yorku.ca/projects/public_html/APAP_bias_correction/
 
 Please cite the following work if this program is used:
 Mahmoud Afifi, Abhijith Punnappurath, Graham Finlayson, and Michael S. Brown, As-projective-as-possible bias correction for illumination estimation algorithms, Journal of the Optical Society of America A (JOSA A), Vol. 36, No. 1, pp. 71-78, 2019
