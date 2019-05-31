@@ -2,7 +2,7 @@
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi)*<sup>1</sup>, *[Abhijith Punnappurath](https://abhijithpunnappurath.github.io/)*<sup>1</sup>, *[Graham Finlayson](https://people.uea.ac.uk/g_finlayson)*<sup>2</sup>, and *[Michael S. Brown](http://www.cse.yorku.ca/~mbrown/)*<sup>1</sup>
 <br></br><sup>1</sup>York University, Canada<br></br>
 <sup>2</sup>The University of East Anglia, UK
-<br></br>[Project page](http://cvil.eecs.yorku.ca/projects/public_html/image_recoloring)
+<br></br>[Project page](http://cvil.eecs.yorku.ca/projects/public_html/APAP_bias_correction/)
 
 
 ![main figure](http://cvil.eecs.yorku.ca/projects/public_html/APAP_bias_correction/imgs/teaser.jpg)
@@ -34,8 +34,6 @@ The main procedure is performed in 'projective_biasCorrection' function which ha
 -method: it can be 'P', 'APAP', or 'APAP-LUT'
 
 -param: method parameters
-
-Project page: http://cvil.eecs.yorku.ca/projects/public_html/APAP_bias_correction/
 
 Please cite the following work if this program is used:
 Mahmoud Afifi, Abhijith Punnappurath, Graham Finlayson, and Michael S. Brown, As-projective-as-possible bias correction for illumination estimation algorithms, Journal of the Optical Society of America A (JOSA A), Vol. 36, No. 1, pp. 71-78, 2019
