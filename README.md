@@ -1,5 +1,11 @@
 # As-projective-as-possible bias correction for illumination estimation algorithms
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi)*<sup>1</sup>, *[Abhijith Punnappurath](https://abhijithpunnappurath.github.io/)*<sup>1</sup>, *[Graham Finlayson](https://people.uea.ac.uk/g_finlayson)*<sup>2</sup>, and *[Michael S. Brown](http://www.cse.yorku.ca/~mbrown/)*<sup>1</sup>
+<br></br><sup>1</sup>York University, Canada<br></br>
+<sup>2</sup>The University of East Anglia, UK
+<br></br>[Project page](http://cvil.eecs.yorku.ca/projects/public_html/image_recoloring)
 
+
+![main figure](http://cvil.eecs.yorku.ca/projects/public_html/APAP_bias_correction/imgs/teaser.jpg)
 
 How to use:
 
