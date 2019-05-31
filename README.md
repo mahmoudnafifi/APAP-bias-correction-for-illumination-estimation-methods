@@ -35,6 +35,9 @@ The main procedure is performed in 'projective_biasCorrection' function which ha
 
 -param: method parameters
 
+#### To add your own method, please update the switch case (line 100) in projective_biasCorrection.m with your method name.
+
+---------------------------------------------------------------------------------------------------------------------
 Please cite the following work if this program is used:
 Mahmoud Afifi, Abhijith Punnappurath, Graham Finlayson, and Michael S. Brown, As-projective-as-possible bias correction for illumination estimation algorithms, Journal of the Optical Society of America A (JOSA A), Vol. 36, No. 1, pp. 71-78, 2019
 
