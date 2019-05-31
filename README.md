@@ -22,16 +22,16 @@ Also make sure that your file contains a field with your illuminant estimation m
 
 The main procedure is performed in 'projective_biasCorrection' function which has the followings parameters:
 
--data: a structure that contains the following fields:
+-`data`: a structure that contains the following fields:
 
 1- `gt`: Nx3 ground truth illuminant vectors
 
-2- `illuminant_method_name`: Nx3 initial estimated illuminant vectors.
+2- `illuminant_method_name`: Nx3 initial estimated illuminant vectors. I.e., the variable should be named with the illuminant method name.
 
-   -ill_method: a string of the illuminant method name. It should match the
-   name of the filed in the 'data' struct.
+   -`ill_method`: a string of the illuminant method name. It should match the
+   name of the filed in the `data` struct.
 
--method: it can be 'P', 'APAP', or 'APAP-LUT'
+-method: it can be `'P'`, `'APAP'`, or `'APAP-LUT'`
 
 -param: method parameters
 
