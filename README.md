@@ -24,9 +24,9 @@ The main procedure is performed in 'projective_biasCorrection' function which ha
 
 -data: a structure that contains the following fields:
 
-1- 'gt': Nx3 ground truth illuminant vectors
+1- `gt`: Nx3 ground truth illuminant vectors
 
-2- 'illuminant_method_name': Nx3 initial estimated illuminant vectors.
+2- `illuminant_method_name`: Nx3 initial estimated illuminant vectors.
 
    -ill_method: a string of the illuminant method name. It should match the
    name of the filed in the 'data' struct.
